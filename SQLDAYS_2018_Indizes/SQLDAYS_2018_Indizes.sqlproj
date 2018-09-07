@@ -61,5 +61,6 @@
   <ItemGroup>
     <Build Include="0001_Indexarten.sql" />
     <Build Include="0002_Wartung.sql" />
+    <Build Include="Indexsuche.sql" />
   </ItemGroup>
 </Project>
